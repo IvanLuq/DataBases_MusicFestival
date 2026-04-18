@@ -1,9 +1,7 @@
 # Databases Challenge 2 — Music Festival Management
 
-**Course:** [24303] Databases — Universitat Pompeu Fabra (UPF), Barcelona  
+**Course:** Databases — Universitat Pompeu Fabra (UPF), Barcelona  
 **Academic Year:** 2025–2026  
-**Group:** 61  
-**Database:** `G61_challange2_music_festival`
 
 ---
 
